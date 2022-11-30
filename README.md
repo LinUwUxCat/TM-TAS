@@ -1,3 +1,10 @@
+# THIS REPOSITORY IS CLOSED
+It's also very useless. Please use https://donadigo.com/tminterface/ instead.
+
+
+
+
+
 # TM-TAS
 TrackMania A01-Race TAS script. [See Here for more info.](https://youtu.be/-_e2jgFKHUg)
 ## HOW TO USE
